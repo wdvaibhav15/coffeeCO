@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Roast Coffee Co.",
+  "description": "Premium full-stack coffee shop e-commerce platform with interactive 3D coffee animations, customer shopping, custom roasts, and comprehensive admin order & inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
